@@ -36,7 +36,9 @@ BS_:
 BU_: XXX
 
 
-BO_ 660 Left Stalk: 8 XXX
+BO_ 660 LeftStalk: 8 XXX
+ SG_ RightTurnButtonState : 6|1@0+ (1,0) [0|3] "" XXX
+ SG_ LeftTurnButtonState : 5|1@0+ (1,0) [0|3] "" XXX
 
 
 
