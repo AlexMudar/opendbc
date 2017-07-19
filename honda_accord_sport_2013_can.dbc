@@ -40,6 +40,20 @@ BO_ 660 LeftStalk: 8 XXX
  SG_ RightTurnButtonState : 6|1@0+ (1,0) [0|3] "" XXX
  SG_ LeftTurnButtonState : 5|1@0+ (1,0) [0|3] "" XXX
 
+BO_ 342 NEW_MSG_1: 8 XXX
+
+BO_ 422 Brights: 8 XXX
+ SG_ BrightHeadlights : 0|1@1+ (1,0) [0|3] "" XXX
+
+BO_ 985 NEW_MSG_2: 8 XXX
+ SG_ NEW_SIGNAL_1 : 21|6@0+ (1,0) [0|63] "" XXX
+
+BO_ 804 NEW_MSG_3: 8 XXX
+ SG_ EngineTempMaybe : 31|8@0+ (1,0) [0|255] "" XXX
+
+BO_ 145 NEW_MSG_4: 8 XXX
+ SG_ NEW_SIGNAL_1 : 31|8@0+ (1,0) [0|255] "" XXX
+
 
 
 
